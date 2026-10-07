@@ -9,10 +9,7 @@ Windows PowerShell:
 .\\venv\\Scripts\\Activate.ps1
 If using Command Prompt:
 venv\\Scripts\\activate
-4. Install Dependencies
-pip install -r requirements.txt
-
-5. Start the Development Server
+4. Start the Development Server
 python manage.py runserver
 The API will be available at:
 http://127.0.0.1:8000/
